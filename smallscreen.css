@@ -2,7 +2,7 @@
   .container-main {
     display: inline-block;
     width: 100%;
-   
+
   }
   .navbar{
     width: 100%;
@@ -10,10 +10,13 @@
   }
   .ligne {
     flex-flow: column;
-    padding-top: 10%; 
+    padding-top: 10%;
   }
   .colone-gauche{
     border-right: none;
+    }
+    .nav-pills li {
+      padding: 0;
     }
 }
 
@@ -21,7 +24,7 @@
   .container-main {
     display: inline-block;
     width: 100%;
-   
+
   }
   .navbar{
     width: 100%;
@@ -29,7 +32,7 @@
   }
   .ligne {
     flex-flow: column;
-    padding-top: 10%; 
+    padding-top: 10%;
   }
   .colone-gauche{
     border-right: none;
